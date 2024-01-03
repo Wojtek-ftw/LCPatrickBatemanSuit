@@ -7,3 +7,6 @@ Fixed packaging to work with MoreSuits Mod without manual intervention.
 ## Making your own More Suits mod
 To learn more about adding your own suits, go to [MoreSuits Mod -
 Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
+
+## Source
+Github Repo: [LCPatrickBatemanSuit](https://github.com/Wojtek-ftw/LCPatrickBatemanSuit)
