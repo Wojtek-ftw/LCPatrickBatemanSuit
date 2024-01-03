@@ -1,0 +1,11 @@
+﻿{
+  "name": "Patrick_Bateman_Suit_Mod",
+  "version": "2.0.0",
+  "description": "Adds Patrick Bateman's suit to the game without requiring the movement of files.",
+  "author": ["ntous","wojtek-ftw"],
+  "version_number": "2.0.0",
+  "dependencies": [
+    "x753-More_Suits-1.3.3",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+ } 
